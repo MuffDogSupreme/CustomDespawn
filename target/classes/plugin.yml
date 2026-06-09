@@ -1,0 +1,16 @@
+name: CustomDespawn
+version: 1.0.0
+main: com.customdespawn.CustomDespawnPlugin
+author: MuffDogSupreme
+api-version: '1.21'
+description: A high-performance background item lifecycle override engine.
+
+commands:
+  customdespawn:
+    description: Main command suite for CustomDespawn.
+    aliases: [cdespawn]
+
+permissions:
+  customdespawn.reload:
+    description: Allows an administrator to reload the configuration file.
+    default: op
