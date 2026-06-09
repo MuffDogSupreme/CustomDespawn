@@ -1,7 +1,8 @@
 name: CustomDespawn
-version: 1.0.0
+version: 1.0
 main: com.customdespawn.CustomDespawnPlugin
 author: MuffDogSupreme
+website: https://modrinth.com/plugin/customdespawn
 api-version: '1.21'
 description: A high-performance background item lifecycle override engine.
 
